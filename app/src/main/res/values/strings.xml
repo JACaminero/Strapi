@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Strapi</string>
+    <string name="base_url">http://10.0.0.16:1337/</string>
+    <string name="access_token_key">access_token_key</string>
+    <string name="btn_SignIn">Registrarse</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a_title">a title</string>
+</resources>
